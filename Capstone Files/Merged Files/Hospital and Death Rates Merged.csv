@@ -1,4 +1,4 @@
-State,Number_of_Hospitals,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue($),"Death Rates, 2015-2019 Averaged.Deaths","Death Rates, 2015-2019 Averaged.Population","Death Rates, 2015-2019 Averaged.Crude Rate"
+State,Number_of_Hospitals,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue($),Deaths,Population,Crude Rate
 Alaska,10,1274,45131,243451,5881291,22287,3689104,604.1
 Alabama,90,15127,577473,2768330,63612420,266073,24388082,1091
 Arkansas,51,8011,316530,1388729,28471124,161185,15002360,1074.4
