@@ -1,4 +1,6 @@
 # healthcareCapstone
+Project plan located in the Projects tab
+
 # exploratory questions
   1. Is there a correlation between the amount of people uninsured and the amount hospitals by state?
   2. Is there a correlation between poverty and insured people?
