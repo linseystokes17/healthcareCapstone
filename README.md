@@ -8,3 +8,5 @@ Project plan located in the Projects tab
   4. Find any correlation between poverty, number of hospitals, and mortality rates per stat
   5. Can we predict mortality rate from poverty status, insurance, and hospital availability
   6. How many healthcare professionals are in each state?
+  7. Can we predict disease from its symptoms?
+
