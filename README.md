@@ -1,4 +1,4 @@
-# healthcareCapstone
+# Healthcare Capstone
 Project plan located in the Projects tab
 
 # exploratory questions
@@ -10,3 +10,7 @@ Project plan located in the Projects tab
   6. How many healthcare professionals are in each state?
   7. Can we predict disease from its symptoms?
 
+# About the Repo
+The Capstone Files folder contains .csv files of the datasets we used in our analysis.
+The Notebooks folder contains the Jupyter Notebooks that were used for analysis
+The Napkins folder contains the preliminary napkin drawings for the presentation and the charts we intend to display
