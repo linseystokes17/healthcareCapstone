@@ -19,3 +19,5 @@ The Notebooks folder contains the Jupyter Notebooks that were used for analysis
 The Napkins folder contains the preliminary napkin drawings for the presentation and the charts we intend to display
 
 The Charts folder contains .png files of the charts we used
+
+The Documents folder contains the following deliverables: ETL Process Document, Napkins feedback and Executive Summary
