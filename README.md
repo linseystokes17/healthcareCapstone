@@ -1,7 +1,7 @@
 # Healthcare Capstone
 Project plan located in the Projects tab
 
-# exploratory questions
+# Exploratory Questions
   1. Is there a correlation between the amount of people uninsured and the amount hospitals by state?
   2. Is there a correlation between poverty and insured people?
   3. What states have the highest/lowest number of people uninsured/insured?
@@ -11,7 +11,6 @@ Project plan located in the Projects tab
   7. Can we predict disease from its symptoms?
 
 # About the Repo
-
 The Capstone Files folder contains .csv files of the datasets we used in our analysis.
 
 The Notebooks folder contains the Jupyter Notebooks that were used for analysis
